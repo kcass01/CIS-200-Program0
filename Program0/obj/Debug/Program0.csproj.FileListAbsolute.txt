@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\bin\Debug\Program0.exe.config
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\bin\Debug\Program0.exe
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\bin\Debug\Program0.pdb
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\obj\Debug\Program0.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\obj\Debug\Program0.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\obj\Debug\Program0.exe
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Program0\Program0\obj\Debug\Program0.pdb
